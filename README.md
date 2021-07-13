@@ -1,6 +1,6 @@
 # payment_app
 
-A new Flutter project.
+A simple payment app using Flutter State Management.
 
 ## Getting Started
 
