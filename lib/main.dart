@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart'
+import 'package:flutter/material.dart';
 import 'package:payment_app/theme.dart';
 
 void main() {
