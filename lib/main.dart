@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:payment_app/theme.dart';
+import 'package:payment_app/theme.dart'
 
 void main() {
   runApp(PaymentApp());
